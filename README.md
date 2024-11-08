@@ -48,3 +48,31 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+
+
+
+This is the working app:
+
+
+![todoapp native](https://github.com/user-attachments/assets/f40f5707-bffd-41c3-8c2a-3f9b61b679db)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
